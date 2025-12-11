@@ -1,0 +1,5 @@
+{
+  "name": "EduInsight ",
+  "description": "An AI-powered teacher quality assessment system using Gemini for sentiment analysis, topic modeling, and automated performance insights.",
+  "requestFramePermissions": []
+}
